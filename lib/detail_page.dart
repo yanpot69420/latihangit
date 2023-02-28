@@ -91,7 +91,10 @@ class DetailPage extends StatelessWidget {
                             padding: const EdgeInsets.only(
                                 left: 20, right: 20, bottom: 20),
                             decoration: BoxDecoration(
+<<<<<<< HEAD
                                 color: Colors.black.withOpacity(0.6),
+=======
+>>>>>>> master
                                 borderRadius: BorderRadius.circular(10)),
                             child: Column(
                               mainAxisAlignment: MainAxisAlignment.center,
@@ -99,8 +102,12 @@ class DetailPage extends StatelessWidget {
                               children: [
                                 SizedBox(
                                   height: 20,
+<<<<<<< HEAD
                                   width: 5,
                                   // ketiga
+=======
+                                  // commit di master
+>>>>>>> master
                                 ),
                                 Heading5(text: 'Brand: ${_product.brand}'),
                                 SizedBox(
