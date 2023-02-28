@@ -100,6 +100,7 @@ class DetailPage extends StatelessWidget {
                                 SizedBox(
                                   height: 20,
                                   // commit di master
+                                  // lanjut commit master
                                 ),
                                 Heading5(text: 'Brand: ${_product.brand}'),
                                 SizedBox(
