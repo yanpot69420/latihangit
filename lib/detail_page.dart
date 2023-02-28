@@ -91,7 +91,7 @@ class DetailPage extends StatelessWidget {
                             padding: const EdgeInsets.only(
                                 left: 20, right: 20, bottom: 20),
                             decoration: BoxDecoration(
-                                color: Colors.black.withOpacity(0.4),
+                                color: Colors.black.withOpacity(0.8),
                                 borderRadius: BorderRadius.circular(10)),
                             child: Column(
                               mainAxisAlignment: MainAxisAlignment.center,
