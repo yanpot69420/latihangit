@@ -98,7 +98,7 @@ class DetailPage extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 SizedBox(
-                                  height: 20,
+                                  height: 25,
                                 ),
                                 Heading5(text: 'Brand: ${_product.brand}'),
                                 SizedBox(
